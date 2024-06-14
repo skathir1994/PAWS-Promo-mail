@@ -1,0 +1,8 @@
+
+<p style="color:black;font-size:14px;text-align:left;">
+Dear Deal Owner,<br/><br/>
+
+We are from the Competitor Monitoring Team (CMT) and work on auditing price recommendations for Amazon Retail ASINs. As part of a new program in UK, we are reviewing live and potential PAWS prices with high discount on deals. We have identified one or more ASINs with such PAWS promotional prices (high discounts) with you as the Deal Owner. To prevent price errors, we kindly request you to double check the PAWS deal price and update the email with comments (1. Deal Price is correct or 2. Deal Price is Incorrect & Removed the Deal or 3. Deal Price is Incorrect and modified the PAWS price).<br/>
+<br/>
+</p>
+
